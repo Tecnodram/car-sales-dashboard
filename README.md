@@ -1,5 +1,5 @@
 # car-sales-dashboard
-Proyecto de Sprint 7
+
 
 Este proyecto demuestra cómo crear una aplicación utilizando Visual Studio Code, GitHub y Render.
 
